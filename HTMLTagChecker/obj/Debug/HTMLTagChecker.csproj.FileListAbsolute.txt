@@ -1,0 +1,9 @@
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\bin\Debug\HTMLTagChecker.exe.config
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\bin\Debug\HTMLTagChecker.exe
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\bin\Debug\HTMLTagChecker.pdb
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\obj\Debug\HTMLTagChecker.Properties.Resources.resources
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\obj\Debug\HTMLTagChecker.csproj.GenerateResource.cache
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\obj\Debug\HTMLTagChecker.csproj.CoreCompileInputs.cache
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\obj\Debug\HTMLTagChecker.exe
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\obj\Debug\HTMLTagChecker.pdb
+J:\New folder\HTMLTagsChecker\HTMLTagChecker\obj\Debug\HTMLTagChecker.csprojResolveAssemblyReference.cache
